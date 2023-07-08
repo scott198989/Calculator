@@ -1,0 +1,15 @@
+.footer {
+    perspective: 1000px;
+  }
+  
+   h2 {
+    font-size: 40px;
+    color: black;
+    text-transform: uppercase;
+    margin: 0;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: rotate 8s linear infinite;
+  }
+  
+  
