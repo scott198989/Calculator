@@ -38,7 +38,7 @@ brew install yarn
 Then, clone the repository and run the following commands:
 
 ```bash
-yarn install
+yarn
 yarn start
 ```
 
